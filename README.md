@@ -6,5 +6,5 @@ Recently there was a power cut in my area and without WiFi , life seemed so mund
 <br>I finished the rest of the code and spent a hour trying to solve a 7 number stack
 <br>It was a good timepass
 
-<br>The idea is to shift the number in descending order from the left stack to the right while making sure we don't place a bigger number after a smaller one (prompt will be given for invalid move)
+<br>The idea is to shift the numbers in descending order from the left stack to the right while making sure we don't place a bigger number after a smaller one (prompt will be given for invalid move)
 
